@@ -9,6 +9,7 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+test-reactnative-3a0e1-firebase-adminsdk-m7xlt-9138c4ba75.json
 
 # macOS
 .DS_Store
